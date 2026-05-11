@@ -456,7 +456,7 @@ Before running this project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hoangsonww/MERN-Stack-Ecommerce-App.git
+   git clone https://github.com/RahsheedSaleh/MERN-Stack-Ecommerce-App-master.git
    cd MERN-Stack-Ecommerce-App  # Fix the path if necessary
    ```
 
@@ -708,9 +708,6 @@ Contributions to this project are welcome! Here are some ways you can contribute
 - Implement new features or enhancements and submit pull requests.
 - Improve documentation and README files.
 
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Creator
 
